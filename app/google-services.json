@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "196216286428",
+    "project_id": "imcproject-216f0",
+    "storage_bucket": "imcproject-216f0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196216286428:android:80908e14aabc8a9811d819",
+        "android_client_info": {
+          "package_name": "com.example.imcproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd0va2TvYWhfHL4iTH_XUI0Vjtu1pH15w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
